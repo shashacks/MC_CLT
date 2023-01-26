@@ -36,7 +36,7 @@ pip install -e .
 ### Train PPO + $V^{D, \pi}$
 <pre>
 <code>
-./mc_clt_ppo.sh Hopper-v2 0.01 500
+./dppo_script.sh Hopper-v2
 </code>
 </pre>
 
